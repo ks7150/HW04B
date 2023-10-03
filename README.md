@@ -51,10 +51,4 @@ Image on repo:
 ![image description](./file-name.jpg)
 
 
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+Each time the mouse moves,a rectangle is formed at the position of x and y, and each of these rectangles have a different randomised color ranging between (200,100,20). and on clicking the mouse, an ellipse is formed with the position relative to the y axis, and a randomised x positon, and with each mouse click, the color of these ellipses changes 
